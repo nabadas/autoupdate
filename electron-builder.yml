@@ -1,0 +1,4 @@
+appId: com.docker.stacks
+publish:
+  provider: github
+  token: b31cd239c213e7c7bf9ae223d25159a56e4a85e5
